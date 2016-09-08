@@ -1,0 +1,3 @@
+proc get_attribute {inst attr} {
+  return [mdb::getval $inst/attribute/$attr] ;
+}
