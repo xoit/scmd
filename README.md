@@ -1,0 +1,3 @@
+# scmd
+
+simulate S commands.
